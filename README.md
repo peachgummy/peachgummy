@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peachgummy aka Rachel!
-- 👀 I’m interested in coding, gaming, hiking, reading, and biology.
+- 👀 I’m interested in gaming, hiking, reading, and biology.
 - 🌱 I’m currently learning more about how to code with HTML/CSS and hope to have a soild foundation to move towards Java soon.
 - 💞️ I’m looking to collaborate on anything that will improve my coding skills.
 - 📫 How to reach me - find me on LinkedIn
